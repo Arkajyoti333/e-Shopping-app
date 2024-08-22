@@ -10,24 +10,24 @@ const Footer = () => {
                 <p className="text-sm ">The customer is at the heart of our unique business model, which includes design.</p>
               </div>
               <div className=" relative flex flex-wrap flex-col  max-w-[25%] h-auto text-white m-3 p-4 min-h-9">
-                <p href="/" className="text-xl font-semibold m-3 border-b-2 border-red-600 "><p>SHOPPING</p></p>
+                <p href="/" className="text-xl font-semibold m-1 border-b-2 border-red-600 "><p>SHOPPING</p></p>
                 <a href="###" className="text-sm items-start text-left m-1 ">Clothing Store</a>
                 <a href="###" className="text-sm items-start text-left m-1 ">Trending Shoes</a>
                 <a href="###" className="text-sm  items-start text-left m-1">Accessories</a>
                 <a href="###" className="text-sm items-start text-left m-1">Sale</a>
               </div>
               <div className=" relative flex flex-wrap flex-col  max-w-[25%] h-auto text-white m-3 p-4 min-h-9">
-                <p href="/" className="text-xl font-semibold m-3  border-b-2 border-red-600 "><p>SERVICES</p></p>
+                <p href="/" className="text-xl font-semibold m-1  border-b-2 border-red-600 "><p>SERVICES</p></p>
                 <a href="###" className="text-sm items-start text-left m-1 ">Contact Us</a>
                 <a href="###" className="text-sm items-start text-left m-1 ">Payment Methods</a>
-                <a href="###" className="text-sm  items-start text-left m-1">Delivary</a>
+                <a href="###" className="text-sm  items-start text-left m-1">Delivery</a>
                 <a href="###" className="text-sm items-start text-left m-1">Return & Exchanges</a>
               </div>
               <div className=" relative flex flex-wrap flex-col  max-w-[25%] h-auto text-white m-3 p-4 min-h-9">
-                <p href="/" className="text-xl font-semibold m-3 border-b-2 border-red-600 max-w-[120px] ">NEWLETTER</p>
+                <p href="/" className="text-xl font-semibold m-1 border-b-2 border-red-600 max-w-[120px] ">NEWSLETTER</p>
                 <p  className="text-sm items-start text-left m-1 ">Be the first to know about new arrivals, look books, sales & promos!</p>
-                <div className="relative flex  flex-row m-3">
-                <input type="email" name="Email" id="" /> 
+                <div className="relative flex  flex-row m-1">
+                <input type="email" name="Email" id="" className="rounded-md mr-2 "/> 
                 <button type="submit" className="hover:bg-sky-300 hover:text-orange-500 "><p className=" bg-sky-500 p-1 rounded-md ">Submit</p></button>   
                 </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
        </div>
 
        <div className="relative flex flex-wrap flex-row justify-evenly min-w-screen m-3 p-1 border-t-2 border-[#292929] min-w-[75%]">
-       <p className="text-white">Copyright © 20242020 All rights reserved | This Awesome site is made with BiPu Group</p>
+       <p className="text-white">Copyright © 2020-2024 All rights reserved | This Awesome site is made with BiPu Group</p>
        </div>
 
       </div>
