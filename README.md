@@ -15,9 +15,10 @@
   <img src="./src/components/Assets/Readme.md Result/Home 1.jpg" alt="project-screenshot" width="200" height="100">
   <img src="./src/components/Assets/Readme.md Result/Home 3.jpg" alt="project-screenshot" width="200" height="100">
 </p>
-
+<p float="left">
 <img src="./src/components/Assets/Readme.md Result/login .jpg" alt="project-screenshot" width="200" height="100/">
 <img src="./src/components/Assets/Readme.md Result/Error.jpg" alt="project-screenshot" width="200" height="100/">
+  </p>
 <img src="./src/components/Assets/Readme.md Result/footer.jpg" alt="project-screenshot" width="400" height="199/">
 
   
