@@ -47,7 +47,7 @@ git clone https://github.com/your-username/your-repo.git cd your-repo
 npm install
 ```
 
-<p>3. et up environment variables: Create a .env file and add your MongoDB URI payment gateway keys and other necessary configuration.</p>
+<p>3. set up environment variables: Create a .env file and add your MongoDB URI payment gateway keys and other necessary configuration.</p>
 
 <p>4. Run the server:</p>
 
