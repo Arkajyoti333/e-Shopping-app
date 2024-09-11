@@ -63,7 +63,7 @@ npm start
 
 Technologies used in the project:
 
-*   Frontend: HTML CSS JavaScript (with potential for using frameworks like React)
+*   Frontend: HTML CSS TailwindCSS JavaScript (with potential for using frameworks like React)
 *   Backend: Node.js Express.js
 *   Database: MongoDB for storing product user and order data
 *   Authentication: Passport.js or JWT for secure user authentication
